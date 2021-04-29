@@ -1,5 +1,5 @@
 # hello-express
-
+[![Discord](https://topservers.com/dynamic_banners/16165142401871008858.gif)](https://discord.gg/wdNMKGdNym)
 A server that serves a webpage, its resources, and some data
 
 
